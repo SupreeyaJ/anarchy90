@@ -1,4 +1,4 @@
-My final project in bachelor degree of computer engineering. (E-commerce website at jun 2018- feb 2019)
+My final project with classmate 2 person in bachelor degree of computer engineering. (E-commerce website at jun 2018- feb 2019)
 
 My project using PHP,MySQL,CSS,JavaScript and HTML language.
 
